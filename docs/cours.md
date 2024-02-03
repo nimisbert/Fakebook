@@ -3,7 +3,7 @@
 ## Sommaire
 1. [Solfège](#solfege)
     1. [Musiques de référence](#references)
-        1. [Secondes](secondes)
+        1. [Secondes](#secondes)
         2. [Tièrces](#tierces)
     2. [Les accords](#accords)
     3. [Les Gammes](#gammes)
@@ -14,6 +14,13 @@
 
 ### 1.1. Musiques de références
 #### 1.1.1. Secondes <a name="secondes"></a>
+| Intervale | Qualité | Hauteur     | nTon | Musique                        |
+|:---------:|:-------:|:-----------:|:----:|:------------------------------:|
+| Seconde   | Mineure | Montante    | +0.5 | Hard Day's Night - The Beatles |
+| Seconde   | Mineure | Descendante | -0.5 | La Gamme Majeure               |
+| Seconde   | Majeure | Montante    | +1.0 | La Gamme Majeure               |
+| Seconde   | Majeure | Descendante | -1.0 | Yesterday - The Beatles        |
+
 #### 1.1.2. Tièrces <a name="tierces"></a>
 #### 1.1.3. Quartes
 #### 1.1.4. Quintes
@@ -24,23 +31,23 @@
 
 ### 1.3. Les Gammes et Modes <a name="gammes"></a>
 #### 1.3.1 Les Gammes Majeures
-La gamme de DoM:
+La gamme de DoM
 | I   | II  | III | IV  | V   | VI  | VII | VIII| 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Do  | Re  | Mi  | Fa  | Sol | La  | Si  | Do  |
 
-Les Gammes Majeures de l'ordre des dièzes:
+Les Gammes Majeures de l'ordre des dièzes
 | I   | II  | III | IV  | V   | VI  | VII | VIII| 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Sol | La  | Si  | Do  | Re  | Mi  | Fa# | Sol |
 | Re  | Mi  | Fa# | Sol | La  | Si  | Do# | Re  |
-| La  | Si  | Do# | Re  | Mi  | Fa# | Sol#| La# |
+| La  | Si  | Do# | Re  | Mi  | Fa# | Sol#| La  |
 | Mi  | Fa# | Sol#| La  | Si  | Do# | Re# | Mi  |
 | Si  | Do# | Re# | Mi  | Fa# | Sol#| La# | Si  |
 | Fa# | Sol#| La# | Si  | Do# | Re# | Mi# | Fa# |
 | Do# | Re# | Mi# | Fa# | Sol#| La# | Si# | Do# |
 
-Les Gammes Majeures de l'ordre des bémols:
+Les Gammes Majeures de l'ordre des bémols
 | I   | II  | III | IV  | V   | VI  | VII | VIII| 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Fa  | Sol | La  | Sib | Do  | Re  | Mi  | Fa  |
@@ -54,15 +61,34 @@ Les Gammes Majeures de l'ordre des bémols:
 #### 1.3.2 Les Gammes Mineures
 
 #### 1.3.3 Les Modes 
-| Mode | Degrès     |
-|:----:|:----------:|
-| I    | Ionien     |
-| II   | Dorien     |
-| III  | Phrygien   | 
-| IV   | Lydien     | 
-| V    | Mixolydien |
-| VI   | Aéolien    |
-| VII  | Locrien    |
+#### 1.3.3.1 Les nom des modes
+| Mode | Degrès     | Note |
+|:----:|:----------:|:----:|
+| I    | Ionien     | Do   |
+| II   | Dorien     | Ré   |
+| III  | Phrygien   | Mi   |
+| IV   | Lydien     | Fa   |
+| V    | Mixolydien | Sol  |
+| VI   | Aéolien    | La   |
+| VII  | Locrien    | Si   |
+
+#### 1.3.3.2 Transposition de modes
+Exemple des modes dans le ton de Ré. Un ton (t) de mode (m) signifie :
+Une gamme majeure dont (t) est le (m) degrès de la gamme, pour composer le son de la gamme majeure (TTtTTTt). 
+| I   | II  | III | IV  | V   | VI  | VII | VIII| Description                     |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:--------------------------------|
+| Re  | Mi  | Fa  | Sol | La  | Sib | Do  | Re  | ton de Re mode VI/Aéolien/La    |
+| Fa  | Sol | La  | Sib | Do  | Re  | Mi  | Fa  | on retrouve la gamme FaM        |
+| Re  | Mi  | Fa# | Sol | La  | Si  | Do  | Re  | ton de Re mode V/Mixolydien/Sol |
+| Sol | La  | Si  | Do  | Re  | Mi  | Fa  | Sol | on retrouve la gamme SolM       |
+| Re  | Mib | Fa  | Sol | La  | Sib | Do  | Re  | ton de Re mode III/Phrygien/Mi  |
+| Sib | Do  | Re  | Mib | Fa  | Sol | La  | Sib | on retrouve la gamme SibM       |
+| Re  | Mi  | Fa# | Sol | La  | Si  | Do# | Re  | ton de Re mode I/Ionien/Do      |
+| Re  | Mi  | Fa# | Sol | La  | Si  | Do# | Re  | on retrouve la gamme ReM        |
+| Re  | Mi  | Fa# | Sol#| La  | Si  | Do# | Re  | ton de Re mode IV/Lydien/Fa     |
+| La  | Si  | Do# | Re  | Mi  | Fa# | Sol#| La  | on retrouve la gamme LaM        |
+| Re  | Mi  | Fa  | Sol | La  | Si  | Do  | Re  | ton de Re mode II/Dorien/Re     |
+| Do  | Re  | Mi  | Fa  | Sol | La  | Si  | Do  | on retrouve la gamme de DoM     |
 
 ### 1.4. Les ordres de notes
 #### 1.4.1 Les secondes
@@ -89,10 +115,17 @@ Les Gammes Majeures de l'ordre des bémols:
 ## 2. Instrument<a name="instrument"></a>
 ### 2.1. Grilles d'accords 
 #### 2.1.1. Blues
-|     |     |     |     |
-|:---:|:---:|:---:|:---:|
-| I   |  I  | I   | I   |
-| V   | V   | I   | I   |
-|     | V   |     |     |  
+|      |      |     |               |
+|:----:|:----:|:---:|:-------------:|
+| $I$  | $I$  | $I$ | $I$           |
+| $IV$ | $IV$ | $I$ | $I$           |
+| $V$  | $IV$ | $I$ | $I$ ou $V$    |  
 
 ### 2.2 Les notes de la basse 
+#### 2.2.1 Première position
+|         |         |         | $\cdot$ |         | $\cdot$ |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| Sol     |         | La      |         | Si      | Do      |
+| Re      |         | Mi      | Fa      |         | Sol     | 
+| La      |         | Si      | Do      |         | Re      | 
+| Mi      | Fa      |         | Sol     |         | La      | 

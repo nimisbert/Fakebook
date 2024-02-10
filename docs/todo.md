@@ -2,7 +2,7 @@
 - habletone
 - dandelot (70-80) vite, 16 à 21 + détacher le regards
 - arbaretaz poser les secondes isnt she lovely
-- lettre elise ()
+- lettre elise 
 - gamme majeure montant et descandant
 - we will rock you demi ton descendant
 - ordonance de notes jusqu'au tierces+ transposition

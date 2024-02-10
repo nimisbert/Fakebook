@@ -22,6 +22,13 @@
 | Seconde   | Majeure | Descendante | -1.0 | Yesterday - The Beatles        |
 
 #### 1.1.2. Tièrces <a name="tierces"></a>
+| Intervale | Qualité | Hauteur     | nTon | Musique                        |
+|:---------:|:-------:|:-----------:|:----:|:------------------------------:|
+| Tièrce    | Mineure | Montante    | +1.5 |  |
+| Tièrce    | Mineure | Descendante | -1.5 |  |
+| Tièrce    | Majeure | Montante    | +2.0 |  |
+| Tièrce    | Majeure | Descendante | -2.0 |  |
+
 #### 1.1.3. Quartes
 #### 1.1.4. Quintes
 
@@ -62,19 +69,20 @@ Les Gammes Majeures de l'ordre des bémols
 
 #### 1.3.3 Les Modes 
 #### 1.3.3.1 Les nom des modes
-| Mode | Degrès     | Note |
-|:----:|:----------:|:----:|
-| I    | Ionien     | Do   |
-| II   | Dorien     | Ré   |
-| III  | Phrygien   | Mi   |
-| IV   | Lydien     | Fa   |
-| V    | Mixolydien | Sol  |
-| VI   | Aéolien    | La   |
-| VII  | Locrien    | Si   |
+| Degrès | Mode       | Note |
+|:------:|:----------:|:----:|
+| I      | Ionien     | Do   |
+| II     | Dorien     | Ré   |
+| III    | Phrygien   | Mi   |
+| IV     | Lydien     | Fa   |
+| V      | Mixolydien | Sol  |
+| VI     | Aéolien    | La   |
+| VII    | Locrien    | Si   |
 
 #### 1.3.3.2 Transposition de modes
-Exemple des modes dans le ton de Ré. Un ton (t) de mode (m) signifie :
-Une gamme majeure dont (t) est le (m) degrès de la gamme, pour composer le son de la gamme majeure (TTtTTTt). 
+Exemple des modes dans le ton de Ré. Un ton $t$ de mode $m$ signifie : <br>
+Une gamme majeure dont $t$ est le $m^{ième}$ degrès de la gamme, pour composer le son de la gamme majeure (TTtTTTt). <br>
+Changer le Ton du mode change la couleur de la gamme.
 | I   | II  | III | IV  | V   | VI  | VII | VIII| Description                     |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:--------------------------------|
 | Re  | Mi  | Fa  | Sol | La  | Sib | Do  | Re  | ton de Re mode VI/Aéolien/La    |
@@ -111,6 +119,7 @@ Une gamme majeure dont (t) est le (m) degrès de la gamme, pour composer le son 
 | Re  | Fa  | La  | Do  | Mi  | Sol | Si  | Re  |
 | Fa  | La  | Do  | Mi  | Sol | Si  | Re  | Fa  |
 | La  | Do  | Mi  | Sol | Si  | Re  | Fa  | La  |
+#### 1.4.3 Les Quartes
 
 ## 2. Instrument<a name="instrument"></a>
 ### 2.1. Grilles d'accords 
@@ -123,9 +132,26 @@ Une gamme majeure dont (t) est le (m) degrès de la gamme, pour composer le son 
 
 ### 2.2 Les notes de la basse 
 #### 2.2.1 Première position
-|         |         |         | $\cdot$ |         | $\cdot$ |
+| $0$     | $1$     | $2$     | $3$     | $4$     | $5$     |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | Sol     |         | La      |         | Si      | Do      |
 | Re      |         | Mi      | Fa      |         | Sol     | 
 | La      |         | Si      | Do      |         | Re      | 
 | Mi      | Fa      |         | Sol     |         | La      | 
+|         |         |         | $\cdot$ |         | $\cdot$ | 
+#### 2.2.2 Deuxième position
+| $6$     | $7$     | $8$     | $9$     | $10$    | $11$    |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|         | Re      |         | Mi      | Fa      |         |
+|         | La      |         | Si      | Do      |         |
+|         | Mi      | Fa      |         | Sol     |         |
+|         | Si      | Do      |         | Re      |         |
+|         | $\cdot$ |         | $\cdot$ |         |         |
+#### 2.2.3 Troisième position
+| $12$          | $13$    | $14$    | $15$    | $16$    | $17$    |
+|:-------------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| Sol           |         | La      |         | Si      | Do      |
+| Re            |         | Mi      | Fa      |         | Sol     | 
+| La            |         | Si      | Do      |         | Re      | 
+| Mi            | Fa      |         | Sol     |         | La      | 
+|$\cdot$ $\cdot$|         |         | $\cdot$ |         | $\cdot$ | 

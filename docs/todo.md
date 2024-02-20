@@ -1,3 +1,43 @@
+# notes instrument 16/02/24
+- attaquer les cordes et descendre le gain
+- agitation tropicales
+- james brown 
+- |   |   |
+- sbbb 
+
+# notes musiques 13/02/24
+- harmoniser les gammes majeurs en supp
+- quinte meme alteration la quinte est juste
+  - sauf entre Si Fa
+- Gamme Majeure 
+  - I (C) II(Dm) III(Em) IV(F) V(G) VI(Am) VII(Bmb5) 
+    - I ton
+    - II sous dominante
+    - V dominante
+    - IV sous dominante
+- Premiere mesure harmoniser avec 
+    - Do M(C)
+    - La m(Am)
+    - Fa M(F)
+- Transposition La Mineure (La donne la tonalité) Lam naturelle
+    - Am I
+    - BO 
+    - C
+    - Dm IV (sous dominante)
+    - Em V
+- Dictee DoM
+- Faire une version majeure = Do premiers degree
+- Faire une version mineure = Lam premiers degree
+- tonalité à avoir
+- diviser les temps par deux pour imaginer la pulse 
+- red rose transposé en FaM
+___
+- Harmonisé Dictée DoM 
+- Red Rose Transposition dans une tonalité différente (bonus)
+- Lecture de notes Clé Sol Clé Fa 80 Croches avancé page 10 entière
+- Exercice de secondes a chanter page 11
+- Chanson ref Tierces
+
 # notes musiques 30/01/24
 - habletone
 - dandelot (70-80) vite, 16 à 21 + détacher le regards

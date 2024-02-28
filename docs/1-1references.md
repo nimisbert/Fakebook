@@ -8,7 +8,7 @@ Musiques de références personelles.
 6. pour les septièmes 
 7. pour les octaves 
 
-# Les secondes <a name="secondes"></a>
+## Les secondes <a name="secondes"></a>
 | Qualité | Hauteur     | Ton | Musique                         |
 |:-------:|:-----------:|:----:|:------------------------------:|
 | Mineure | Montante    |$+0.5$| Hard Day's Night - The Beatles |
@@ -16,7 +16,7 @@ Musiques de références personelles.
 | Majeure | Montante    |$+1.0$| La Gamme Majeure               |
 | Majeure | Descendante |$-1.0$| Yesterday - The Beatles        |
 
-# Les tièrces <a name="tierces"></a>
+## Les tièrces <a name="tierces"></a>
 | Qualité | Hauteur     | Ton | Musique                         |
 |:-------:|:-----------:|:----:|:------------------------------:|
 | Mineure | Montante    |$+1.5$|  |

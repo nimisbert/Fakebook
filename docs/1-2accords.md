@@ -9,6 +9,7 @@ Tel que $N$ représente une note en notation anglosaxonne.
 |:---------------|:---:|:---------:|:---:|:---------:|
 | $N$            | $I$ | $III$     | $V$ |
 | $Nm$           | $I$ | $III^{b}$ | $V$ |      
+| $Nm^{b5}$      | $I$ | $III^{b}$ | $V^{b}$ |
 | $N7^{ième}$    | $I$ | $III$     | $V$ | $VII$     |
 | $Nm7^{ième}$   | $I$ | $III^{b}$ | $V$ | $VII$     |
 | $N7^{ième}m$   | $I$ | $III$     | $V$ | $VII^{b}$ |
@@ -17,8 +18,14 @@ Tel que $N$ représente une note en notation anglosaxonne.
 ### La gamme de DoM
 | $C$ | $Dm$| $Em$| $F$ | $G$ | $Am$| $Bm^{b5}$ |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---------:|
-| Do  | Re  | Mi  | Fa  | Sol | La  | Si        |
-| Mi  | Fa  | Sol | La  | Si  | Do  | Re        |
-| Sol | La  | Si  | Do  | Re  | Mi  | Fa        |
+| Do  | Ré  | Mi  | Fa  | Sol | La  | Si        |
+| Mi  | Fa  | Sol | La  | Si  | Do  | Ré        |
+| Sol | La  | Si  | Do  | Ré  | Mi  | Fa        |
 
 ### La gamme de Lam
+#### Naturelle
+| $A$  | $Bm^{b5}$  | $C$ | $Dm$ | $Em$ | $F$ | $G$  |
+|:----:|:----------:|:---:|:----:|:----:|:---:|:----:|
+| La   | Si         | Do  | Ré   | Mi   | Fa  | Sol  | 
+| Do   | Re         | Mi  | Fa   | Sol  | La  | Si   |
+| Mi   | Fa         | Sol | La   | Si   | Do  | Ré   |

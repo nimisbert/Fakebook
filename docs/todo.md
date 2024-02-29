@@ -1,6 +1,5 @@
 # 23/02/24
 - [X] Corriger la Dictée Do
-- [X] Harmoniser la Dictée Do
 - Rythms-1 mesure 10
 - Agitation tropicales
 - I Feel Good

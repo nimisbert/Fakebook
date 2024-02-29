@@ -68,7 +68,6 @@
         \layout {
             indent = 0\cm
         }
-        
     }
 }
 % trouver correlation de gamme

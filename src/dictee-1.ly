@@ -15,10 +15,10 @@
         << 
         \new ChordNames {
             \chordmode {
-            c1 e1:m f1 b1:m
-            c1 b1:m f1 e1:m
-            c1 e1:m b1:m c1
-            c1 b1:m d1:m c1
+            c1 c1 f1 g1
+            c1 g1 c1 g1
+            c1 c1 g1 c1
+            c1 g1 g1 c1 
             }
         }
         \new Staff = "Mélodie" {
@@ -28,15 +28,15 @@
             c4 b c d       | % mesure 1
             e1             |
             f4. e8 d4 c4   |
-            b1             |
+            b1             | \break
             c4 b c a       |
             b1             |
             c4. d4 e f8    | 
-            g1             |
+            g1             | \break
             c,4. b4 c d8   |
             e1             |
             d4 c d b       |
-            c1             |
+            c1             | \break
             c4 b c a       |
             b1             |
             d4. f4 e d8    |
@@ -46,22 +46,22 @@
         \new Staff = "Harmonie" {
             \clef bass
             \relative c {
-                <c e>2 <c g'>2 |
-                <e g>2 <e b'>2 |
-                <f a c>1       |
-                <b d f>1  |
-                <c, e g>1 |
-                <b' d f>1 |
+                <c e g>1  |
+                <c e g>1  |
                 <f a c>1  |
-                <e g b>1  |
-                <c e g>1  |
-                <e g b>1  |
-                <b' d f>1 |
+                <g b d>1  |
+                <c, e g>1 |
+                <g' b d>1 |
+                <c, e g>1 |
+                <g' b d>1 |
                 <c, e g>1 |
                 <c e g>1  |
-                <b' d f>1 |
-                <d, f a>1 |
+                <g' b d>1 |
+                <c, e g>1 |
                 <c e g>1  |
+                <g' b d>1 |
+                <g b d>1  |
+                <c, e g>1 |
             }
         }
         >>
@@ -70,6 +70,7 @@
         }
     }
 }
+
 % trouver correlation de gamme
 % trouver une tonalite ici DoM
 % a part chromatisme sur temps faible (nombre paire 2 tps 4 tps)

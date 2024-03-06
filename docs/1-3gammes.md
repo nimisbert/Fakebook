@@ -1,4 +1,6 @@
 # Les Gammes & Modes
+Les Gammes & Modes.
+
 ## Les Gammes
 ### Les Gammes Majeures
 La gamme de DoM

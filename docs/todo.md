@@ -1,9 +1,13 @@
+# 06/03/24
+- [ ] Transposer Red Rose Fa M
+- [ ] Corriger Dictee-1 
+
 # 23/02/24
 - [X] Corriger la Dictée Do
-- Rythms-1 mesure 10
-- Agitation tropicales
-- I Feel Good
-- Harmoniser la Dictée Do Majeur/mineur
+- [/] Rythms-1 mesure 10
+- [X] Agitation tropicales
+- [X] I Feel Good
+- [X] Harmoniser la Dictée Do Majeur/mineur
 - Lecture Clé Sol Page 10
 - Chanson de Réf des tièrces
 - Transposé Red Rose

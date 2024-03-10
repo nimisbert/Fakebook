@@ -1,3 +1,13 @@
+# 07/03/24
+- Probleme de placement
+- une mesure sur deux 
+- alterner
+- laiser un temps de repos 
+- placer sur deuxieme double 
+- placer sur quatrieme 
+- changer entre les deux
+- plus de basse dans audio
+
 # 06/03/24
 - [ ] Transposer Red Rose Fa M
 - [ ] Corriger Dictee-1 

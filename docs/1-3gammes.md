@@ -8,6 +8,8 @@ La gamme de DoM
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:----:|
 | Do  | Re  | Mi  | Fa  | Sol | La  | Si  | Do   |
 
+
+
 Les Gammes Majeures de l'ordre des dièzes
 |$I$  |$II$ |$III$|$IV$ |$V$  |$VI$ |$VII$|$VIII$| 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:----:|
@@ -19,16 +21,31 @@ Les Gammes Majeures de l'ordre des dièzes
 | Fa# | Sol#| La# | Si  | Do# | Re# | Mi# | Fa#  |
 | Do# | Re# | Mi# | Fa# | Sol#| La# | Si# | Do#  |
 
+> Trouver la fondamentale par le nombre de dièzes 
+> - Compter jusqu'à la note de l'ordre (ex. 3# donne Sol#)
+> - Ajouter un demi-ton à la note de l'ordre (ex. Sol# donne La)
+> - La note est la fondamentale de la gamme majeure (ex. La donne La Majeure)
+
+> Trouver le nombre de dièzes par la fondamentale
+> - Enlever un demi-ton à la note (ex. LaM donne Sol#)
+> - Compter jusqu'à la note de l'ordre  (ex. Sol# donne 3#)
+
 Les Gammes Majeures de l'ordre des bémols
 |$I$  |$II$ |$III$|$IV$ |$V$   |$VI$|$VII$|$VIII$| 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:----:|
-| Fa  | Sol | La  | Sib | Do  | Re  | Mi  | Fa   |
 | Sib | Do  | Re  | Mib | Fa  | Sol | La  | Sib  |
 | Mib | Fa  | Sol | Lab | Sib | Do  | Re  | Mib  | 
 | Lab | Sib | Do  | Reb | Mib | Fa  | Sol | Lab  |
 | Reb | Mib | Fa  | Solb| Lab | Sib | Dob | Reb  | 
 | Solb| Lab | Sib | Dob | Reb | Mib | Fa  | Solb |
 | Dob | Reb | Mib | Fab | Solb| Lab | Sib | Dob  |
+| Fa  | Sol | La  | Sib | Do  | Re  | Mi  | Fa   |
+
+> Trouver la fondamentale par le nombre de bémols
+> - Compter jusqu'à l'avant dernier bémol de l'odre (ex. 3b donne Mib)
+
+> Trouver le nombre de bémols par la fondamentale 
+> - Compter jusqu'à une note de plus que le nombre de bémols de l'ordre (ex. Mib donne 3b)
 
 ### Les Gammes Mineures
 

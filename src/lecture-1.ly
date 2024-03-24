@@ -1,7 +1,9 @@
 \version "2.24.2"
 \paper{ 
-    left-margin = 2\cm 
-    page-breaking = #ly:page-turn-breaking
+    left-margin = 2\cm
+    system-system-spacing = #'((basic-distance . 0.1) (padding . 0))
+    ragged-last-bottom = ##f
+    ragged-bottom = ##f
 }
 
 \book {
@@ -26,7 +28,6 @@
             indent = 0\cm
         }
     }
-    
     \score {
         << 
         \new Staff = "2" {
@@ -41,7 +42,6 @@
         \header {piece = "Exercice - 2"}
         \layout {indent = 0\cm}
     }
-
     \score {
         << 
         \new Staff = "3" {
@@ -56,7 +56,6 @@
         \header {piece = "Exercice - 3"}
         \layout {indent = 0\cm}
     }
-    
     \score {
         << 
         \new Staff = "4" {
@@ -71,7 +70,6 @@
         \header {piece = "Exercice - 4"}
         \layout {indent = 0\cm}
     }
-
     \score {
         << 
         \new Staff = "5" {
@@ -87,7 +85,6 @@
         \header {piece = "Exercice - 5"}
         \layout {indent = 0\cm}
     }
-
     \score {
         <<
         \new Staff = "6" {
@@ -102,7 +99,6 @@
         \header {piece = "Exercice - 6"}
         \layout {indent = 0\cm}
     }
-
     \score {
         << 
         \new Staff = "7" {
@@ -118,9 +114,7 @@
         \header {piece = "Exercice - 7"}
         \layout {indent = 0\cm}
     }
-
-    \pageBreak 
-
+    
     \score {
         << 
         \new Staff = "7" {

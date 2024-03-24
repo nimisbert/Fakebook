@@ -33,13 +33,13 @@ Les Gammes Majeures de l'ordre des dièzes
 Les Gammes Majeures de l'ordre des bémols
 |$I$  |$II$ |$III$|$IV$ |$V$   |$VI$|$VII$|$VIII$| 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:----:|
+| Fa  | Sol | La  | Sib | Do  | Re  | Mi  | Fa   |
 | Sib | Do  | Re  | Mib | Fa  | Sol | La  | Sib  |
 | Mib | Fa  | Sol | Lab | Sib | Do  | Re  | Mib  | 
 | Lab | Sib | Do  | Reb | Mib | Fa  | Sol | Lab  |
 | Reb | Mib | Fa  | Solb| Lab | Sib | Dob | Reb  | 
 | Solb| Lab | Sib | Dob | Reb | Mib | Fa  | Solb |
 | Dob | Reb | Mib | Fab | Solb| Lab | Sib | Dob  |
-| Fa  | Sol | La  | Sib | Do  | Re  | Mi  | Fa   |
 
 > Trouver la fondamentale par le nombre de bémols
 > - Compter jusqu'à l'avant dernier bémol de l'odre (ex. 3b donne Mib)
@@ -60,6 +60,7 @@ Les Gammes Majeures de l'ordre des bémols
 | $V$    | Mixolydien | Sol  |
 | $VI$   | Aéolien    | La   |
 | $VII$  | Locrien    | Si   |
+
 ### Exemple
 Exemple des modes dans le ton de Ré. Un ton $t$ de mode $m$ signifie : <br>
 Une gamme majeure dont $t$ est le $m^{ième}$ degrès de la gamme, pour composer le son de la gamme majeure (TTtTTTt). <br>

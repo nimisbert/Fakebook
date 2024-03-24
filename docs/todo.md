@@ -1,3 +1,22 @@
+# 19
+- chanter accords par demi ton, puis ton, puis tierce
+- mouvement important ReM : D (I), G(IV), A(V)
+- Relative mineure : Bm (VI)
+- C#mb5 (VII)
+- Gammes mineure : 
+  - même gamme que ReM, sauf que part du VI degres
+  - I, IV, V (dominante, crée tension harmonie occidentale résolution VII, I)
+  - mineure harmonique qui augmente un demi ton pour retrouver VII M 
+- bonne vitesse en rythme et chanté
+- dissocié problème, rythme puis musique
+- ne plus trop écouter version saxon et vraimnt chanter
+
+# 14/03/24
+
+# 12/03/24
+- finir dictee
+- lecture 19 sol
+
 # 07/03/24
 - Probleme de placement
 - une mesure sur deux 

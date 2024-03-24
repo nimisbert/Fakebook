@@ -17,12 +17,21 @@
             \numericTimeSignature \time 4/4 % Signature de temps 4/4
             \clef treble                    % Clé de Sol
             \relative c' {                  % Notation à partir de Do
-            d8 e ges a b a4.   |
-            ges8 e d e ges d4. |
-            d4 d8 e ges e d4   |  
-            d8 e ges a b a 
-            b a ges e d d e ges e d e 
-            d e ges g ges e d g g b a ges e d 
+            r4 d8 e fis a b a   | % pas de noire pointer fin de mesure
+            a4 fis8 e d e fis d | % liaison a 
+            d4 d8   b d e fis e | % liaison d 
+            e2 r2               | \break 
+            r4 d8 e fis a fis4  | % peut être un peu piquée 
+            g4 fis d b          | 
+            g'4. fis8 r d r b   | % contretemps   % g'4. f8-f8 d8 r8 b8 
+            e2 r2               | \break    
+            r4 d8 e fis a b a   | 
+            a4 b8 a fis e d b   |
+            d e fis e d e4.     | 
+            r4 d8 e fis a fis g | \break
+            g4 fis8 e d4 g4     | 
+            g8 b a fis e d4.    | 
+            
             } 
         } 
         >>
@@ -31,3 +40,8 @@
         }
     }
 }
+% 1: memoriser des mesures
+% 2: essayer de reproduire en rythme
+% 3: trouver la tonalitee (ReM)
+% 4: les alterations de (ReM, Fa# Do#)
+% 5: decoupage de temps 

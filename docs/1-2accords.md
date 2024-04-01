@@ -24,11 +24,11 @@ Les différents accords de la musique occidentale.
 | Do  | Re   | Mi   | Fa   | Sol | La  | Sib       |
 
 ### La gamme de SolM <a name="SolM"></a>
-| $G$ | $Am$ | $Bm$ | $C$  | $D$ | $E$ | $F$#$m^{b5}$ |
-|:---:|:----:|:----:|:----:|:---:|:---:|:-----------:|
-| Sol | La   | Si   | Do   | Re  | Mi  | Fa#         |
-| Si  | Do   | Re   | Mi   | Fa# | Sol | La          |
-| Re  | Mi   | Fa#  | Sol  | La  | Si  | Do          |
+| $G$ | $Am$ | $Bm$ | $C$  | $D$ | $E$ | $F$ \# $m^{b5}$ |
+|:---:|:----:|:----:|:----:|:---:|:---:|:---------------:|
+| Sol | La   | Si   | Do   | Re  | Mi  | Fa#             |
+| Si  | Do   | Re   | Mi   | Fa# | Sol | La              |
+| Re  | Mi   | Fa#  | Sol  | La  | Si  | Do              |
 
 ## Les accord des gammes mineures <a name ="gammesm"></a>
 ### La gamme de Lam <a name="Lam"></a>

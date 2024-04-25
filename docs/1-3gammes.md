@@ -8,8 +8,6 @@ La gamme de DoM
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:----:|
 | Do  | Re  | Mi  | Fa  | Sol | La  | Si  | Do   |
 
-
-
 Les Gammes Majeures de l'ordre des dièzes
 |$I$  |$II$ |$III$|$IV$ |$V$  |$VI$ |$VII$|$VIII$| 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:----:|

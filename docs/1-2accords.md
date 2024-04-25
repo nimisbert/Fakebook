@@ -7,6 +7,8 @@ Les différents accords de la musique occidentale.
 2. [Les accords des gammes mineures](#gammesm)
     - [La Mineure](#Lam)
         - [Naturelle](#LamNat)
+        - [Harmonique](#LamHar)
+        - [Mélodique](#LamMel)
 
 ## Les accords des gammes majeures <a name="gammesM"></a>
 ### La gamme de DoM <a name="DoM"></a>
@@ -24,7 +26,7 @@ Les différents accords de la musique occidentale.
 | Do  | Re   | Mi   | Fa   | Sol | La  | Sib       |
 
 ### La gamme de SolM <a name="SolM"></a>
-| $G$ | $Am$ | $Bm$ | $C$  | $D$ | $E$ | $F$ \# $m^{b5}$ |
+| $G$ | $Am$ | $Bm$ | $C$  | $D$ | $E$ | $F$\#$m^{b5}$ |
 |:---:|:----:|:----:|:----:|:---:|:---:|:---------------:|
 | Sol | La   | Si   | Do   | Re  | Mi  | Fa#             |
 | Si  | Do   | Re   | Mi   | Fa# | Sol | La              |

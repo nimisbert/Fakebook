@@ -21,7 +21,7 @@ Notes personnelles d'apprentissage de la musique.
         7. [Locrien]
 
 2. [Partitions](./partitions/)
-    3. [Funk]
+    1. [Funk](./partitions/funk/)
         - ["Lettsanity" - Lettuce](./partitions/funk/lettsanity.ly)
-    4. [Jazz]
+    2. [Jazz](./partitions/jazz/)
         - ["Sunny" - Potsu](./partitions/jazz/sunny.ly)

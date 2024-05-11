@@ -1,17 +1,27 @@
 # Musique
 Notes personnelles d'apprentissage de la musique.
-- Musiques
-    - [Dictée-1](./src/dictee-1.ly)
-    - [Dictée-2](./src/dictee-2.ly)
-    - [Dictée-3](./src/surprise-haydn.ly) : Joseph Haydn - "Surprise"
-    - [Grille-1](./src/grids-1.ly) : Grille de basse de première année
-    - [Red Rose](./src/red-rose.ly)
-    - [Lettsanity](./src/lettsanity.ly) : Lettuce - "Lettsanity" 
-- Documents 
-    - [Ordres](./docs/1-4ordres.md)
-    - [Gammes Majeures](./docs/1-3gammes.md)
-    - Gammes Mineures Naturelles
-    - Gammes Mineures Harmoniques
-    - Gammes Mineures Mélodiques
-    - Modes Anciens
-    - [Notes sur le manche de la basse](./docs/2-1notes.md)
+
+1. [Documents](./documents/)
+    1. Notes
+        1. [Ordres](./documents/ordres.md)
+        2. [Intervalles & Qualités]
+        3. [Musiques de références]
+    2. Gammes
+        1. [Majeures]
+        2. [Mineures naturelles]
+        3. [Mineures harmoniques]
+        4. [Mineures mélodiques]
+    3. Modes
+        1. [Ionien]
+        2. [Dorien]
+        3. [Phrygien]
+        4. [Lydien]
+        5. [Mixolydien]
+        6. [Aéolien]
+        7. [Locrien]
+
+2. [Partitions](./partitions/)
+    3. [Funk]
+        - ["Lettsanity" - Lettuce](./partitions/funk/lettsanity.ly)
+    4. [Jazz]
+        - ["Sunny" - Potsu](./partitions/jazz/sunny.ly)

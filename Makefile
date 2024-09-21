@@ -1,17 +1,30 @@
-LILYPOND = lilypond 				# Lilypond compilateur 
-PS2PDF = ps2pdf						# PostScript to PDF converter
-vpath 	%.ly 						\
-	$(WORKDIR)partitions/dictees	\
-	$(WORKDIR)partitions/funk		\
-	$(WORKDIR)partitions/jazz
+# Lilypond compiler 
+LILY = lilypond
+# PostScript to PDF converter
+PS2PDF = ps2pdf
+# Build directory, pdf parts 
+BUILD = build
+# Sources directory, lilypond srcs
+SRC = src
+vpath %.ly $(WORKDIR)src $(WORKDIR)build
 .PHONY: clean help
 
+# Fakebook, rough sketches of music sheets
+Lettsanity: Lettsanity.pdf
+WhenYouGonnaLearn: WhenYouGonnaLearn.pdf
+
+# Rules to make targets 
 %.ps: %.ly 
-	$(LILYPOND) -f=pdf $<
+	$(LILY) -f=pdf $<
+
 %.pdf: %.ps
 	$(PS2PDF) $<
+	mv $@ $(BUILD)/$@
+	rm $<
+
 help:
-	$(info compiler une partition: make partition.pdf)
-	$(info ouvrir une partition: open partition.pdf)
+	$(info compile source: make part.pdf)
+	$(info look at a part: open part.pdf)
+
 clean:
-	rm -rf *.ps *.pdf
+	rm -rf *.ps $(BUILD)/*.pdf

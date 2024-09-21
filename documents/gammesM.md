@@ -1,3 +1,0 @@
-# Gammes Majeures
-
-## Do Majeur

@@ -7,6 +7,7 @@ A fakebook to help me with the practice of music, namely reading sheets, writing
 ## Build 
 
 ```shell
+mkdir build
 make nameOfpart
 open build/nameOfPart
 ```
